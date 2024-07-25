@@ -1,7 +1,4 @@
-# JOURN 124
-# Kessi Chen
-# Flying Etiquette Excercise & Datawrapper
-
+# JOURN 124_Flying Etiquette Excercise & Datawrapper_Kessi Chen
 
 ## Datawrapper graph
 ![Datawrapper graph](FwZuV-people-s-opinion-on-whether-it-is-rude-to-wake-a-passenger-up-if-trying-to-go-to-the-bathroom-on-a-plane.png)
